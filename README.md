@@ -1,5 +1,5 @@
 
-# Golf Mobile
+# Birdie Mobile
 By Thibo Verbeerst
 
 ## 1. Minimal Technical Requirements
@@ -30,4 +30,4 @@ security).
 
 ### 1.3.Experienced - self learning topics (16+/20)
 - Use the ML Kit to add new experience features to your app (Vision and/or Natural
-  Language API  
+  Language API)  
